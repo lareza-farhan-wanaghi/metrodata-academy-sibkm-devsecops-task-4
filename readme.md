@@ -80,10 +80,12 @@
    ```
 
    You should see the application running successfully now.
+   
       <img src="_resources/Screenshot%202023-09-07%20at%2018.56.51.png" width="75%"/>
 
 2. Visit the application in your web browser.
    A rendered webpage should appear, indicating that the application is running.
+
       <img src="_resources/Screenshot%202023-09-07%20at%2018.57.28.png" width="75%"/>
 	
 ### 5. Push the Solution.
