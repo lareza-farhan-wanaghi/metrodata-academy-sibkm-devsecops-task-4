@@ -52,7 +52,7 @@
    ```
 
    You may encounter an error similar to this:
-   	![Screenshot 2023-09-07 at 18.45.59.png](_resources/Screenshot%202023-09-07%20at%2018.45.59.png)
+      <img src="_resources/Screenshot%202023-09-07%20at%2018.45.59.png" width="75%"/>
 
    This error occurs due to the lack of configurations declared for the database connection.
 
@@ -80,7 +80,7 @@
    ```
 
    You should see the application running successfully now.
-   
+
       <img src="_resources/Screenshot%202023-09-07%20at%2018.56.51.png" width="75%"/>
 
 2. Visit the application in your web browser.
