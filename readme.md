@@ -1,4 +1,4 @@
-# Metrodata Academy SIBKM DevSecOps Task 1: MySQL Connector
+# Metrodata Academy SIBKM DevSecOps Task 4: MySQL Connector
 
 ## Objective
 - Establish a connection between the Spring Boot application in the Product-Service repository and a MySQL database.
