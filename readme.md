@@ -80,11 +80,11 @@
    ```
 
    You should see the application running successfully now.
-   	![Screenshot 2023-09-07 at 18.56.51.png](_resources/Screenshot%202023-09-07%20at%2018.56.51.png)
+      <img src="_resources/Screenshot%202023-09-07%20at%2018.56.51.png" width="75%"/>
 
 2. Visit the application in your web browser.
    A rendered webpage should appear, indicating that the application is running.
-   	![Screenshot 2023-09-07 at 18.57.28.png](_resources/Screenshot%202023-09-07%20at%2018.57.28.png)
+      <img src="_resources/Screenshot%202023-09-07%20at%2018.57.28.png" width="75%"/>
 	
 ### 5. Push the Solution.
 1. Push the solution
