@@ -2,7 +2,7 @@
 
 ## Objective
 - Establish a connection between the Spring Boot application in the Product-Service repository and a MySQL database.
-- Push the modified application to a new branch within the repository.
+- Create a new branch within the application repository and push the modified changes to the branch.
 
 ## Solution
 
