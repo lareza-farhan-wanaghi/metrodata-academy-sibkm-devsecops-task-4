@@ -8,19 +8,12 @@
 
 ### 1. Project Setup
 
-1. Configure Git:
-   ```bash
-   git config --global user.name "<Your Name>"
-   git config --global user.email "<Your Email>"
-   echo "export GITHUB_TOKEN=<Your Access Token>" >> ~/.bashrc
-   source ~/.bashrc
-   ```
 
-2. Clone the Repository:
+1. Clone the Repository. Ensure you have the credential ready:
    ```bash
-   git clone <Repository URL>
+   git clone https://github.com/SIBKM-DevSecOps/product-service.git
    ```
-3. Create a new branch.
+2. Create a new branch.
 	```bash
 	cd product-service
 	git checkout -b lareza-farhan-wanaghi
@@ -52,7 +45,8 @@
    ```
 
    You may encounter an error similar to this:
-      <img src="_resources/Screenshot%202023-09-07%20at%2018.45.59.png" width="75%"/>
+
+   <img src="_resources/Screenshot%202023-09-07%20at%2018.45.59.png" width="75%"/>
 
    This error occurs due to the lack of configurations declared for the database connection.
 
